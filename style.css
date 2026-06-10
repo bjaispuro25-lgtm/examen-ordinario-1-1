@@ -1,0 +1,7 @@
+.table, th, td, tr {
+    margin: auto;
+    padding: 10px;
+    background-color: aqua;
+    border: 2px solid;
+    width: auto;
+}
