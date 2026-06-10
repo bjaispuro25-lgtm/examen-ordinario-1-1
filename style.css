@@ -1,7 +1,17 @@
 .table, th, td, tr {
     margin: auto;
     padding: 10px;
-    background-color: aqua;
-    border: 2px solid;
+    background-color: rgb(68, 94, 211);
+    border: 1px solid rgb(0, 0, 0);
     width: auto;
+}
+
+.formulario {
+    width: 400px;
+    background-color: aqua;
+    padding: 20px;
+    word-spacing: 30px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 25px;
 }
